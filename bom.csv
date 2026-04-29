@@ -1,0 +1,7 @@
+Item,Quantity,Description,Link
+Microcontroller,1,Arduino Uno (or ESP32),https://www.arduino.cc/
+Display,1,OLED or LCD Display (I2C),https://example.com
+Resistors,2,220 Ohm resistors,https://example.com
+Wires,10,Jumper wires (M-M),https://example.com
+Breadboard,1,Standard breadboard,https://example.com
+Power Supply,1,USB or battery pack,https://example.com
