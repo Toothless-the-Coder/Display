@@ -1,7 +1,5 @@
 Item,Quantity,Description,Link
-Microcontroller,1,Arduino Uno (or ESP32),https://www.arduino.cc/
-Display,1,OLED or LCD Display (I2C),https://example.com
-Resistors,2,220 Ohm resistors,https://example.com
-Wires,10,Jumper wires (M-M),https://example.com
-Breadboard,1,Standard breadboard,https://example.com
-Power Supply,1,USB or battery pack,https://example.com
+Microcontroller,1,ESP32,https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/113991054/16652880
+Display,1,GRAPHIC DISPLAY TFT RGB 1.8",https://www.digikey.com/en/products/detail/winstar-display/WF18GTLAADNN0/23018401
+Keycaps,3,Keycaps,https://www.digikey.com/en/products/detail/sparkfun-electronics/15306/10130909
+Case,1,Case,print legion
